@@ -8,7 +8,7 @@
 sudo hostnamectl set-hostname tomcat
 cd /opt 
 sudo yum install git wget -y
-sudo yum install java-11-openjdk
+sudo yum install java-11-openjdk 
 sudo yum install java-1.8.0-openjdk-devel -y
 # install wget unzip packages.
 sudo yum install wget unzip -y
